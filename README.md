@@ -1,6 +1,6 @@
 # Udacity-MLEND
 The Machine Learning Engineer Nanodegree Program is an advanced certification program hosted by Udacity in collaboration with AWS. You can check for more details regarding this program [here](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
-Usually this program costs around $1,000 for 3 months of access but I got free access to this program by winning the AWS Deepracer Scholarship.
+Usually this program costs around $1,000 for 3 months of access but I completed this program for free by winning the AWS Deepracer Scholarship.
 
 ![alt text][logo]
 
