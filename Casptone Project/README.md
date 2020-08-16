@@ -2,7 +2,7 @@
 Udacity - Machine Learning Engineer Nanodegree Program
 
 **Project Overview**
-This project is to aid a mail-order sales company to acquire new German clients for their mail-out campaign based on analyzing and comparing the attributes of general population and potential target Germen population. The end goal is to identify and predict a group of target audience of the campaign that could bring the highest return for the company. 
+This project is built to aid a mail-order sales company to acquire new German clients for their mail-out campaign based on analyzing and comparing the attributes of general population and potential target Germen population. The end goal is to identify and predict a group of target audience of the campaign that could bring the highest return for the company. 
 
 **Software and Libraries**
 This project was built using Google Colaboratory and Python 3. The libraries imported includes:
