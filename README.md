@@ -10,6 +10,6 @@ The requirement for acquiring this certification involved completing 3 projects 
 
 In project 1, I had to build and deploy sentiment analysis model using AWS services. The requirements and details of this project along with its solution are given in the [jupyter notebook](https://github.com/jahidahsan/Udacity-MLEND/blob/master/Project%201/SageMaker%20Project.ipynb).
 
-In the second project, I was required to build and deploy plagiarism detector with the help of AWS services. The details of this project are outlined in the readme file of the folder.
+In the second project, I was required to build and deploy plagiarism detector with the help of AWS services. The details of this project are outlined in the [readme file](https://github.com/jahidahsan/Udacity-MLEND/blob/master/Project%202%20Plagiarism%20Detector/README.md) of the folder.
 
-The last project aka capstone project was built using the real world data provided by Bertelsmann Arvato Analytics. The details can be found in the respective folder.
+The last project aka capstone project was built using the real world data provided by Bertelsmann Arvato Analytics. The details can be found in the [respective](https://github.com/jahidahsan/Udacity-MLEND/tree/master/Casptone%20Project) folder.
