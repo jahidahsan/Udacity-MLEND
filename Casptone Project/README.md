@@ -20,7 +20,7 @@ CatBoost Classifier
 LGBM Classifier  
 XGBoost Classifier  
 
-**How the Project is organized**
+**How the Project is organized**  
 File Descriptions:  
 Capstone_Project.ipynb: Jupyter Notebook that contains the coding requirement.  
 DIAS Information Levels - Attributes 2017: Contains Information level, attributes and description of columns in dataset.  
