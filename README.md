@@ -13,3 +13,9 @@ In project 1, I had to build and deploy sentiment analysis model using AWS servi
 In the second project, I was required to build and deploy plagiarism detector with the help of AWS services. The details of this project are outlined in the [readme file](https://github.com/jahidahsan/Udacity-MLEND/blob/master/Project%202%20Plagiarism%20Detector/README.md) of the folder.
 
 The last project aka capstone project was built using the real world data provided by Bertelsmann Arvato Analytics. The details can be found in the [respective folder](https://github.com/jahidahsan/Udacity-MLEND/tree/master/Casptone%20Project).
+
+I received this certificate on feb 23, 2020. This verification link for this certificate can be accessed [here](https://confirm.udacity.com/33JSQTHL).
+
+![alt text][logo1]
+
+[logo1]: https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/97ee9f36-bd3b-4d58-8742-62bb14b49f64.svg "Logo Title Text 2"
