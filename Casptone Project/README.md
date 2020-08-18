@@ -6,7 +6,7 @@ This project is built to aid a mail-order sales company to acquire new German cl
 
 **Software and Libraries**
 This project was built using Google Colaboratory and Python 3. The libraries imported includes:
-Numpy
+Numpy \\
 Pandas
 SKLearn
 Matplotlib
