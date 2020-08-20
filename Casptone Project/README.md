@@ -6,19 +6,19 @@ This project is built to aid a mail-order sales company to acquire new German cl
 
 **Software and Libraries**  
 This project was built using Google Colaboratory and Python 3. The libraries imported includes:  
-Numpy  
-Pandas   
-SKLearn   
-Matplotlib   
-Seaborn  
-SciPy  
-PCA  
-K-means / Clustering  
-AdaBoostClassifier  
-GradientBoostingClassifier  
-CatBoost Classifier  
-LGBM Classifier  
-XGBoost Classifier  
+* Numpy  
+* Pandas   
+* SKLearn   
+* Matplotlib   
+* Seaborn  
+* SciPy  
+* PCA  
+* K-means / Clustering  
+* AdaBoostClassifier  
+* GradientBoostingClassifier  
+* CatBoost Classifier  
+* LGBM Classifier  
+* XGBoost Classifier  
 
 **Files Description**  
 * **Capstone_Project.ipynb:** Jupyter Notebook that contains the coding requirement.  
